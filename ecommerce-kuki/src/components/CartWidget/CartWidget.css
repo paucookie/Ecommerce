@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@300;500;800&display=swap');
+
+#imgCart {
+    color: rgb(46, 46, 46);
+    font-size: x-large;
+    cursor: pointer;
+}
+
+strong {
+    font-size: small;
+    padding-right: 1rem;
+    font-family: 'Geologica';
+    font-weight: 300;
+    color: rgb(46, 46, 46);
+}

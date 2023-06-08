@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@300;500;800&display=swap');
+
+h2, span  {
+    font-family: 'Geologica';
+    font-weight: 800;
+    color: rgb(43, 43, 43);
+    padding-top: 2rem;
+    text-align: center;
+}
+

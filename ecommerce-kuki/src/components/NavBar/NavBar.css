@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@300;500;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+    color: rgb(0, 183, 255);
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: 500;
+    display: inline-block;
+    font-family: 'Geologica';
+}
+
+li:hover {
+    color: rgb(209, 96, 30);
+}
+
+.KukiLogo {
+    width: 6rem;
+    padding: .5rem;
+}
+
+
